@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9B59E55D-C73D-8A1A-0BEE-C22670EC671D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FaceDetector.cs">
+    <Files>
+      <File FileName="Assets/FlyLittleBird.cs" Line="39" Column="91" />
+      <File FileName="Assets/Move.cs" Line="17" Column="39" />
+      <File FileName="Assets/PipeSpawner.cs" Line="26" Column="23" />
+      <File FileName="Assets/FaceDetector.cs" Line="40" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8269e067-6e6a-48cf-ac3f-d8c3280ab398" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
